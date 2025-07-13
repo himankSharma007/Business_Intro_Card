@@ -1,16 +1,21 @@
-# assignment_2
+# Business Intro Card
 
-A new Flutter project.
+This is a Flutter assignment project displaying a business introduction card UI.
 
-## Getting Started
+## 🔷 Screenshots
 
-This project is a starting point for a Flutter application.
+![Homepage](screenshots/Business_Intro_Card_App(UI).png)
 
-A few resources to get you started if this is your first Flutter project:
+## 🔷 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Shows avatar image
+- Displays name, role, salary, and description
+- Uses Flutter widgets effectively
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔷 How to run
+
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutter run`
+
+---
